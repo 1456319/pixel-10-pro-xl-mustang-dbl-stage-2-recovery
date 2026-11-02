@@ -35,3 +35,5 @@ When staging `gsa_bl1.img` from the official factory OTA (`mustang-ota-bp4a.2602
 2. Are researchers who source the signed recovery bootloaders (`signed-recovery.zip`) aware of any specific requirements for G5 DBL tethered staging?
 
 All disassembly, Ghidra/Capstone maps, and PyUSB scripts are available in the repository linked above. We would love to collaborate on adding full Tensor G5 Stage 2 support to `pixel-restore`.
+
+*(Note: Please reply directly to this GitHub issue as I am currently locked out of external accounts/DMs due to 2FA on the down phone. If a physical device would help research, I am also willing to ship/loan the hardware to verified maintainers).*

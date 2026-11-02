@@ -21,3 +21,5 @@ For Tensor G5 devices trapped in Stage 2 DBL (`boot-stage: dbl`, `next-boot-stag
 2. If recovery-signed stages are needed, is there any known source or progression for G5 recovery packs?
 
 Would appreciate your insights or getting connected with the researchers tracking Tensor recovery images!
+
+*(Note: Please reply directly to this GitHub issue as I am currently locked out of external accounts/DMs due to 2FA on the down phone. If a physical device would help research, I am also willing to ship/loan the hardware to verified maintainers).*
